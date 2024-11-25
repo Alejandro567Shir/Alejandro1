@@ -16,6 +16,7 @@ public class Tarea1 {
         System.out.println("Descripcion:" +objproducto1.getDescripcion());
         System.out.println("Precio:" +objproducto1.getPrecio());
         System.out.println("Stock:" +objproducto1.getStock());
+        System.out.println("pipipipi");
         
         Producto objproducto2= new Producto("Celular", "tecno", 150.00, 1);
         System.out.println("Nombre del producto:" +objproducto2.getNombrePro());
